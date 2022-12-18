@@ -1,9 +1,6 @@
 # Kelompok-7
 Final Project Sanbercode Batch 40 Kelompok 7
 
-Kelompok 20
-- list nama kelompok yg ikut kerja
-
 1. Tomy Andryanto
  a. Test Cases: modul Performance
  b. Manual Testing: modul Performance
